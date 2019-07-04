@@ -1,0 +1,15 @@
+C:\Users\David\Desktop\HobbyStudio\D_Sergeevi\D_Sergeevi\obj\Debug\D_Sergeevi.csprojAssemblyReference.cache
+C:\Users\David\Desktop\HobbyStudio\D_Sergeevi\D_Sergeevi\obj\Debug\D_Sergeevi.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\HobbyStudio\D_Sergeevi\D_Sergeevi\bin\Debug\D_Sergeevi.exe.config
+C:\Users\David\Desktop\HobbyStudio\D_Sergeevi\D_Sergeevi\bin\Debug\D_Sergeevi.exe
+C:\Users\David\Desktop\HobbyStudio\D_Sergeevi\D_Sergeevi\bin\Debug\D_Sergeevi.pdb
+C:\Users\David\Desktop\HobbyStudio\D_Sergeevi\D_Sergeevi\bin\Debug\EntityFramework.dll
+C:\Users\David\Desktop\HobbyStudio\D_Sergeevi\D_Sergeevi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\David\Desktop\HobbyStudio\D_Sergeevi\D_Sergeevi\bin\Debug\EntityFramework.xml
+C:\Users\David\Desktop\HobbyStudio\D_Sergeevi\D_Sergeevi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\David\Desktop\HobbyStudio\D_Sergeevi\D_Sergeevi\obj\Debug\D_Sergeevi.csproj.CopyComplete
+C:\Users\David\Desktop\HobbyStudio\D_Sergeevi\D_Sergeevi\obj\Debug\D_Sergeevi.exe
+C:\Users\David\Desktop\HobbyStudio\D_Sergeevi\D_Sergeevi\obj\Debug\D_Sergeevi.pdb
+C:\Users\David\Desktop\HobbyStudio\D_Sergeevi\D_Sergeevi\obj\Debug\D_Sergeevi.Migrations.initial.resources
+C:\Users\David\Desktop\HobbyStudio\D_Sergeevi\D_Sergeevi\obj\Debug\D_Sergeevi.csproj.GenerateResource.cache
+C:\Users\David\Desktop\HobbyStudio\D_Sergeevi\D_Sergeevi\obj\Debug\D_Sergeevi.Migrations.initial1.resources
